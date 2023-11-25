@@ -1,0 +1,66 @@
+{
+    "account": [
+        {
+            "password": "123",
+            "userID": 1,
+            "userName": "to"
+        },
+        {
+            "password": "123",
+            "userID": 2,
+            "userName": "thi"
+        },
+        {
+            "password": "123",
+            "userID": 3,
+            "userName": "minh"
+        }
+    ],
+    "file": [{
+        "blurHash": "LISY]bWB%3aGx^ogjrWC-@oeozo$",
+        "fileExtension": ".png",
+        "fileID": 1,
+        "status": true
+    }],
+    "message": [
+        {
+            "fromUserID": 1,
+            "messageID": 1,
+            "messageType": 1,
+            "text": "oke",
+            "time": "11:08 AM",
+            "toUserID": 2
+        },
+        {
+            "fromUserID": 2,
+            "messageID": 2,
+            "messageType": 4,
+            "text": "C:\\Users\\Admin\\Documents\\NetBeansProjects\\BTLLTM\\Server\\server_data\\1.png",
+            "time": "11:11 AM",
+            "toUserID": 1
+        }
+    ],
+    "user": [
+        {
+            "gender": "",
+            "image": "",
+            "status": true,
+            "userID": 1,
+            "userName": "to"
+        },
+        {
+            "gender": "",
+            "image": "",
+            "status": true,
+            "userID": 2,
+            "userName": "thi"
+        },
+        {
+            "gender": "",
+            "image": "",
+            "status": true,
+            "userID": 3,
+            "userName": "minh"
+        }
+    ]
+}
